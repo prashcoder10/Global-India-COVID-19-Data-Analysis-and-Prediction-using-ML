@@ -48,4 +48,3 @@ Dataset used up to **15th November 2020**
 
 ---
 
-More sections like Contributors / Publication / Visualization Previews can be added next. Let me know if you want them.
